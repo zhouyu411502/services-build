@@ -3,3 +3,5 @@
 /logs
 *.log
 services-build.iml
+commons.iml
+src/
