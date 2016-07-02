@@ -10,6 +10,7 @@
     <modules>
         <module>commons</module>
         <module>base-web</module>
+        <module>quartz-monitor</module>
     </modules>
     <packaging>pom</packaging>
 

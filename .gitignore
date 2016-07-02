@@ -6,3 +6,4 @@ services-build.iml
 commons.iml
 src/
 */target
+commons/target/classes/
